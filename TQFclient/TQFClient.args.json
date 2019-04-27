@@ -1,0 +1,22 @@
+{
+  "FileVersion": 2,
+  "Id": "5e5c2c57-df29-4030-8aed-bd86a1880182",
+  "Items": [
+    {
+      "Id": "bdb04d89-4a7b-49e5-8c3d-2c2914a23511",
+      "Command": "localhost"
+    },
+    {
+      "Id": "6062afb0-a63e-4cde-954b-bba10d169652",
+      "Command": "43.24.423.1"
+    },
+    {
+      "Id": "d473f9ce-a296-4f18-976f-ecb976386e66",
+      "Command": "60000"
+    },
+    {
+      "Id": "fe4cf686-d47f-45a9-bb3f-5ecce50ce93d",
+      "Command": "60001"
+    }
+  ]
+}
